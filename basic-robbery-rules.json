@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "document_type": "Game Rules",
+    "category": "Robbery Guidelines",
+    "last_updated": "2025",
+    "server": "XLANTIS CITY ROLEPLAY",
+    "requirements": "",
+    "rules": "",
+    "hostage_situation_rules": "",
+    "direct_code_99_rules": "",
+    "hostage_mode": "",
+    "direct_code_99_mode": "",
+    "note": "For all Police related scenarios, if you have been revived by means other than the EMS, you are not allowed to continue the situation and must submit yourself to Police Custody."
+  },
+  "overview": "",
+  "sections": [
+    {
+      "title": "OVERVIEW",
+      "subsections": [],
+      "description": "These rules describe the guidelines to be followed by those engaging in the various robberies available in XLANTIS CITY ROLEPLAY."
+    },
+    {
+      "title": "GENERAL ROBBERY RULES",
+      "subsections": [
+        {
+          "title": "1. Prohibited Items and Actions",
+          "rules": [
+            "The use of Petrol Cans in Robbery situations is strictly prohibited",
+            "All weapons and illegal items will be confiscated by the Police in every robbery situation before sending you to jail",
+            "You are not allowed to carry a robber or a hostage while leaving the situation on initiating a Police Chase",
+            "The use of props or vehicles for blocking the entrance to prevent combat with the bots will be considered an FRP under \"Bug Exploiting\"",
+            "Melee weapons and the use of fists are not allowed in Robbery Situations",
+            "Gangs can't use gang assets (Gang Chat, Gang Vehicle, Gang Dress) during robbery situation"
+          ]
+        },
+        {
+          "title": "2. Communication and Demands",
+          "rules": [
+            "Robbers can inform XPD about Number of Robbers involved by using anonymous chat in a Code 99 situation as a fairplay, if they wish, XPD can use maximum number of officers allowed in that situation",
+            "Don't try to trigger XPD by putting unwanted chats by using anonymous chat or tweets",
+            "The Hostage should be gun-aimed until the XPD accepts the demands. The robbers are only safe till the Hostage is safe from them",
+            "Hostage should show fear RP and try to seek help from the XPD",
+            "Don't ask any XPD items as demand. The XPD will not entertain the demand for items kept in the XPD Locker (Evidence/Common) or XPD Weapons and Items. This applies to all situations relating to XPD Situations",
+            "Idiotic or no sense demands are not allowed. The XPD will ignore your demand and proceed with actions accordingly",
+            "The Police Department will not entertain monetary demands. If the suspects demand money a maximum of 10L White Money (only) can be demanded"
+          ]
+        },
+        {
+          "title": "3. Escape and Pursuit Rules",
+          "rules": [
+            "If you are to continue a chase in the water, you must have a boat, but note that for such cases the Police will bring in a helicopter, boats and additional units to apprehend you",
+            "Boats and Helicopters can be used as a means of escape, however, they must be within locality (postal sequence, for example Robbery in Vespucci and the Heli is in Mirror Park)",
+            "After starting a chase in robbery situation there will be a 10 mins cool off time before you can enter a safezone",
+            "XPD have the initiative to start gunfight if they have visually confirmed the presence of weapons in the hands of the robbers exiting the vehicle",
+            "Robbers please aware that if you left any evidence that can lead to your identity, the police have all the authority to collect that evidence & carry forward the investigation"
+          ]
+        },
+        {
+          "title": "4. Player Limits and Restrictions",
+          "rules": [
+            "Keep in mind that in person robbery is limited to only 5 Items and a maximum of 10L in Black or White Money. You are not allowed to rob dead/downed players",
+            "If the Robber Count exceeds the mentioned count, the Police will react with all available units. However, the Robber count can not increase. If you increase the count of Robbers involved in a situation, it will count as an FRP under \"Breaking Robbery Rules\" with a 4 Day Ban",
+            "You cannot take situations only take a single hostage at a given time",
+            "Robbery Situations cannot under any circumstances lead to Civilian/Gang Situations against the Police",
+            "There is no option for demanding items or money if you steal a government vehicle. Good luck escaping with your life"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SPECIFIC ROBBERY TYPES",
+      "subsections": [
+        {
+          "title": "ATM Robbery",
+          "rules": [
+            "Player Count: 1 Robber, 1 Police Officer",
+            "Vehicles: 1 Vehicle on both sides (Bikes are not allowed)",
+            "In an ATM Robbery you cannot directly initiate a shootout. The Police will give you the opportunity to enter your vehicle to escape",
+            "Code 99 will only be initiated once your Vehicle has been disabled (fully damaged, no fuel, unable to flip over, lost in water)",
+            "The Robbery Situation will end if you have evaded the Police for a minimum of 5 Minutes or if you win or lose the Code 99 Situation",
+            "You are not allowed to switch vehicles during this robbery"
+          ]
+        },
+        {
+          "title": "Car Robbery",
+          "rules": [
+            "Can be triggered when 1 Police is active",
+            "Minimum Player Count: Robber: 1, Maximum Player Count: Robbers: 2, Police: 2",
+            "Even if there is 1 Robber, 2 Officers can attend. The same is allowed in reverse",
+            "A Car Robbery is a Code 99 Situation if the following condition has been met: Code 99 / Shootout will only start if the Robbery Vehicle has been completely disabled or lost",
+            "At no point can either party stop the vehicle to initiate a shootout",
+            "The Car Robbers must be in the same vehicle from the start of the Robbery to till the time of delivering the vehicle. After selling the vehicle the Robbers must evade capture and return the vehicle papers to successfully complete the robbery"
+          ]
+        },
+        {
+          "title": "Shop Robbery",
+          "rules": [
+            "Can be triggered when 2 Police are active",
+            "Minimum Player Count: Robber: 2 + 1 Hostage, Police: 3 + 1 Negotiator",
+            "Maximum Player Count: Robbers: 3 + 1 Hostage, Police: 4 + 1 Negotiator",
+            "Vehicles: Robbers: 1 Vehicle only. Police Officers: For the minimum count and maximum count only 2 Vehicles are allowed",
+            "Weapon: Pistol Only",
+            "A Shop Robbery is a Code 99 Situation if the following condition has been met: Code 99 / Shootout will only start if the Robbery Vehicle has been completely disabled or lost",
+            "At no point can either party stop the vehicle to initiate a shootout",
+            "The negotiator must leave the scene with the hostage after gaining control of the hostage and relaying the demands to the Attending Officers, for this they may bring a vehicle to transport the Hostage to the Station"
+          ]
+        },
+        {
+          "title": "Fleeca Robbery",
+          "rules": [
+            "Can be triggered when 2 Police are active",
+            "Has 2 methods of execution: Hostage Situation and Direct Code 99",
+            "Minimum Player Count: Robber: 3 + 1 Hostage, Police: 4 + 1 Negotiator",
+            "Maximum Player Count: Robbers: 4 + 1 Hostage, Police: 5 + 1 Negotiator",
+            "Vehicles: Robbers: 1 Vehicle only. Police Officers: For the minimum count 2 Vehicles are allowed, for the maximum count only 3 Vehicles are allowed",
+            "Weapon: Pistol Only",
+            "Minimum Player Count: Robber: 3, Police: 4",
+            "Maximum Player Count: Robbers: 4, Police: 5",
+            "In Direct Code 99 Fleeca, the Robbers are under no circumstances allowed to exit the Fleeca to initiate the gun fight. When the shootout is to start, the XPD will announce that they are breaching the location",
+            "If a robber exits the Fleeca during any point before the firing starts they will be captured. The Fleeca interior is your only defensible point",
+            "At the end of the gunfight, the side that is All Down must respond to the All Down question. No further chats will be entertained",
+            "Weapon: Pistol or Rifles"
+          ]
+        },
+        {
+          "title": "Paleto Bank Robbery",
+          "rules": [
+            "Can be triggered when 2 Police is active",
+            "Has 2 methods of execution: Hostage Situation and Direct Code 99",
+            "Minimum Player Count: Robber: 3 + 1 Hostage, Police: 4 + 1 Negotiator",
+            "Maximum Player Count: Robbers: 4 + 1 Hostage, Police: 5 + 1 Negotiator",
+            "Vehicles: Robbers: 1 Vehicle only. Police Officers: For the minimum count only 2 Vehicles are allowed, for the maximum count only 3 Vehicles are allowed",
+            "Weapon: Rifles Only",
+            "Minimum Player Count: Robber: 4, Police: 5",
+            "Maximum Player Count: Robbers: 5, Police: 6",
+            "In Direct Code 99 Paleto, the Robbers are under no circumstances allowed to exit the Paleto to initiate the gun fight. When the shootout is the start the XPD will announce that they are breaching the location",
+            "If a robber exits the Paleto during any point before the firing starts they will be captured. The Paleto interior is your only defensible point",
+            "At the end of the gunfight, the side that is All Down must respond to the All Down question. No further chats will be entertained",
+            "Weapon: Rifles Only"
+          ]
+        },
+        {
+          "title": "Main Bank (Pacific Bank) Heist",
+          "rules": [
+            "Can be triggered when 4 Police is active",
+            "Main Bank Heist is a Code 99 Section 3 Robbery with 2 Modes of execution: Hostage Mode and Direct Code 99 Mode",
+            "Minimum Player Count: Robber: 6 + 1 Hostage, Police: 8 + 1 Negotiator",
+            "Maximum Player Count: Robbers: 8 + 1 Hostage, Police: 10 + 1 Negotiator",
+            "For both the minimum and maximum versions, a maximum of 1 Hostage is allowed. However, the total demands remain the same (3 Demands)",
+            "Vehicles: Robbers: For both Minimum and Maximum cases, only 2 Vehicles are allowed to be used. Police: For both Minimum and Maximum cases, only 5 Vehicles are allowed to be used. Additional to the 5 Vehicles, 1 Helicopter will be included in the situation",
+            "Minimum Player Count: Robber: 6, Police: 8",
+            "Maximum Player Count: Robbers: 8, Police: 10",
+            "In Direct Code 99 Main Bank, the Robbers are under no circumstances allowed to exit the Main Bank to initiate the gun fight. When the shootout is to start the XPD will announce that they are breaching the location",
+            "If a robber exits the Main Bank during any point before the firing starts they will be captured. The Main Bank interior is your only defensible point",
+            "At the end of the gunfight, the side that is \"All Down\" must respond to the \"All Down\" question. No further chats will be entertained",
+            "Weapons: Rifles Only"
+          ]
+        },
+        {
+          "title": "Drug Heist",
+          "rules": [
+            "The Drug Heist is a Code 99 Section 3 Robbery",
+            "Minimum Player Count: Robbers: 7, Police: 8",
+            "Maximum Player Count: Robbers: 8, Police: 10",
+            "The Robbers are under no circumstances allowed to exit the DH Building initiate the gun fight. When the shootout is the start the X-PD will announce that they are breaching the location. If a robber exits the DH during any point before the firing starts they will be captured. The DH interior is your only defensible point",
+            "At the end of the gunfight, the side that is \"All Down\" must respond to the \"All Down\" question. No further chats will be entertained",
+            "There is no \"Escape RP\" for this situation",
+            "The use of bugs and collision zone exploits will result in an FRP being generated and the bug exploitation ban being implemented",
+            "Weapons: Rifles Only"
+          ]
+        },
+        {
+          "title": "Vault Heist",
+          "rules": [
+            "The Vault Heist is a Code 99 Section 3 Robbery",
+            "Minimum Player Count: Robbers: 3, Police: 4",
+            "Maximum Player Count: Robbers: 6, Police: 8",
+            "Maximum Vehicle Count: 4 + 1 Helicopter",
+            "The Police can declare Code 99 once the robbery vehicles are unable to proceed (disabled)",
+            "No additional vehicles apart from the spawned vehicles can be used",
+            "No additional players may join this situation while it is on-going or triggered",
+            "There is no option for \"backup\" in this robbery",
+            "There is no \"Escape RP\" for this situation",
+            "The use of bugs and collision zone exploits will result in an FRP being generated and the bug exploitation ban being implemented",
+            "Weapons: Rifles Only"
+          ]
+        },
+        {
+          "title": "House Robbery",
+          "rules": [
+            "The House Robbery is not a Code 99 Robbery",
+            "Player Count: Robbers: 1, Police: 1",
+            "Weapons: None (Police will use Taser only)",
+            "You are not allowed to fire at the Police after you trigger a House Robbery",
+            "To successfully complete the robbery you must successfully evade Police Capture for 5 Minutes"
+          ]
+        },
+        {
+          "title": "Bob Cat Robbery",
+          "rules": [
+            "The BobCat is a Code 99 Section 3 Robbery",
+            "Minimum Player Count: Robbers: 4, Police: 6",
+            "Maximum Player Count: Robbers: 8, Police: 10",
+            "The Robbers are under no circumstances allowed to exit the Bobcat Building after initiate the gun fight. When the shootout is the start the X-PD will announce that they are breaching the location. If a robber exits the DH during any point before the firing starts they will be captured. The DH interior is your only defensible point",
+            "At the end of the gunfight, the side that is \"All Down\" must respond to the \"All Down\" question. No further chats will be entertained. Using any type of props or vehicle for blocking the entrance to prevent combat with bot will be considered as Bug exploiting",
+            "There is no \"Escape RP\" for this situation",
+            "The use of bugs and collision zone exploits will result in an FRP being generated and the bug exploitation ban being implemented",
+            "Weapons: Rifles Only"
+          ]
+        },
+        {
+          "title": "Bunker and other NPC Robberies",
+          "rules": [
+            "Robbers: 1 to 8 Robbers",
+            "Weapons: Any",
+            "You are required to re-spawn in this situation if you are killed by the NPCs",
+            "Admins will Force Re-spawn you if you do not"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "POST-ROBBERY RULES",
+      "subsections": [
+        {
+          "title": "Robberies and Escape RP",
+          "rules": [
+            "In any robbery, if a gunfight begins and either the robber or an officer is incapacitated, the incident ends for the party that has been downed. There will be no opportunity for a robber to initiate an Escape Roleplay in this context",
+            "If the robber is downed, the police may proceed with the arrest process—but note that officers can only handcuff a robber after they have been revived by the bot or EMS. Handcuffing a deceased character is not permitted",
+            "Additionally, if a robber chooses to cooperate with the police, officers may handcuff without using a taser; however, the action of cuffing must still be clearly communicated",
+            "Robbers must vacate the area once the police are incapacitated instead of attempting to engage with them further after a robbery"
+          ]
+        },
+        {
+          "title": "In-Person Robbery",
+          "rules": [
+            "For in-person robberies, you have two options: either steal five items with a combined value of 50 Lakhs or take 50 Lakhs in cash",
+            "Always keep track of each item's cost—if you exceed the designated amount, you will be held responsible",
+            "This applies for Hostage Situations as well"
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "XLANTIS CITY ROLEPLAY - BASIC ROBBERY RULES"
+}

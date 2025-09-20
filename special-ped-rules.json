@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "document_type": "Game Rules",
+    "category": "Special Character Guidelines",
+    "last_updated": "2025",
+    "server": "XLANTIS CITY ROLEPLAY"
+  },
+  "overview": "",
+  "sections": [
+    {
+      "title": "OVERVIEW",
+      "subsections": [],
+      "description": "These rules serve as a guideline for those players who are playing or wish to play using special PEDs such as Animal PEDs, Non-Standard PEDs, Kid PEDs and so on. Failure to comply with these guidelines will result in the revocation of the permissions given to you as well as the access to the PED."
+    },
+    {
+      "title": "REQUESTING AND GAINING ACCESS TO YOUR PED",
+      "subsections": []
+    },
+    {
+      "title": "PED LAWS: KID PEDS",
+      "subsections": [
+        {
+          "title": "Age Rating Compliance",
+          "rules": [
+            "**While Kid PEDs are strictly not allowed by Rockstar's and thereby FiveM's PLAs. It allows you to use the PEDs for engaging roleplays within the boundary of the Age Rating. What this means is that players using such PEDs may not engage in any activity that constitutes as an illegal activity. These activities can range from driving a full sized vehicle to doing drugs, engaging in criminal Roleplay, engaging in Gambling and so on**",
+            "**Players that have found to be engaging in such activities will only receive a single warning or receive a hefty ban or other actions befitting the gravity of the situation**"
+          ]
+        },
+        {
+          "title": "Interaction Restrictions",
+          "rules": [
+            "**Players interacting with Kid PED players are strictly restricted from involving them in similar activities. Violence and such activities are NOT under any circumstances allowed near or within vicinity of these Kid PED players. Voluntary Failure to comply will result in hefty actions determined by the Server Management**"
+          ]
+        },
+        {
+          "title": "Power Gaming and Abuse",
+          "rules": [
+            "**A Kid PED player cannot under any circumstances abuse the powers granted to them to favor their own roleplay or the roleplay of those involved with them. Such actions constitute as Power Gaming and will result in double to regular action for all involved**"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PED LAWS: ANIMAL PEDS",
+      "subsections": [
+        {
+          "title": "Approval and Uniqueness",
+          "rules": [
+            "**Animal PEDs are complicated cases within the Roleplay community and require the player to have met the Management and confirmed the details of their PED**",
+            "**PEDs must be unique and not in use by other Changelings**"
+          ]
+        },
+        {
+          "title": "Physical Limitations",
+          "rules": [
+            "**Animal PED characters cannot be carried as such actions cause bugs with the model and the interactee and environment removing the immersion in the Roleplay**",
+            "**Certain Animal PEDs are restricted from using Vehicles and items that a Human Character would normally use. This includes, Phones, Weapons, Equipment and so on. The cases shift from PED to PED**"
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "XLANTIS CITY ROLEPLAY - SPECIAL PED RULES"
+}

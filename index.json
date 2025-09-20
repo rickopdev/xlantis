@@ -1,0 +1,1177 @@
+{
+  "basic-robbery-rules": {
+    "metadata": {
+      "document_type": "Game Rules",
+      "category": "Robbery Guidelines",
+      "last_updated": "2025",
+      "server": "XLANTIS CITY ROLEPLAY",
+      "requirements": "",
+      "rules": "",
+      "hostage_situation_rules": "",
+      "direct_code_99_rules": "",
+      "hostage_mode": "",
+      "direct_code_99_mode": "",
+      "note": "For all Police related scenarios, if you have been revived by means other than the EMS, you are not allowed to continue the situation and must submit yourself to Police Custody."
+    },
+    "overview": "",
+    "sections": [
+      {
+        "title": "OVERVIEW",
+        "subsections": [],
+        "description": "These rules describe the guidelines to be followed by those engaging in the various robberies available in XLANTIS CITY ROLEPLAY."
+      },
+      {
+        "title": "GENERAL ROBBERY RULES",
+        "subsections": [
+          {
+            "title": "1. Prohibited Items and Actions",
+            "rules": [
+              "The use of Petrol Cans in Robbery situations is strictly prohibited",
+              "All weapons and illegal items will be confiscated by the Police in every robbery situation before sending you to jail",
+              "You are not allowed to carry a robber or a hostage while leaving the situation on initiating a Police Chase",
+              "The use of props or vehicles for blocking the entrance to prevent combat with the bots will be considered an FRP under \"Bug Exploiting\"",
+              "Melee weapons and the use of fists are not allowed in Robbery Situations",
+              "Gangs can't use gang assets (Gang Chat, Gang Vehicle, Gang Dress) during robbery situation"
+            ]
+          },
+          {
+            "title": "2. Communication and Demands",
+            "rules": [
+              "Robbers can inform XPD about Number of Robbers involved by using anonymous chat in a Code 99 situation as a fairplay, if they wish, XPD can use maximum number of officers allowed in that situation",
+              "Don't try to trigger XPD by putting unwanted chats by using anonymous chat or tweets",
+              "The Hostage should be gun-aimed until the XPD accepts the demands. The robbers are only safe till the Hostage is safe from them",
+              "Hostage should show fear RP and try to seek help from the XPD",
+              "Don't ask any XPD items as demand. The XPD will not entertain the demand for items kept in the XPD Locker (Evidence/Common) or XPD Weapons and Items. This applies to all situations relating to XPD Situations",
+              "Idiotic or no sense demands are not allowed. The XPD will ignore your demand and proceed with actions accordingly",
+              "The Police Department will not entertain monetary demands. If the suspects demand money a maximum of 10L White Money (only) can be demanded"
+            ]
+          },
+          {
+            "title": "3. Escape and Pursuit Rules",
+            "rules": [
+              "If you are to continue a chase in the water, you must have a boat, but note that for such cases the Police will bring in a helicopter, boats and additional units to apprehend you",
+              "Boats and Helicopters can be used as a means of escape, however, they must be within locality (postal sequence, for example Robbery in Vespucci and the Heli is in Mirror Park)",
+              "After starting a chase in robbery situation there will be a 10 mins cool off time before you can enter a safezone",
+              "XPD have the initiative to start gunfight if they have visually confirmed the presence of weapons in the hands of the robbers exiting the vehicle",
+              "Robbers please aware that if you left any evidence that can lead to your identity, the police have all the authority to collect that evidence & carry forward the investigation"
+            ]
+          },
+          {
+            "title": "4. Player Limits and Restrictions",
+            "rules": [
+              "Keep in mind that in person robbery is limited to only 5 Items and a maximum of 10L in Black or White Money. You are not allowed to rob dead/downed players",
+              "If the Robber Count exceeds the mentioned count, the Police will react with all available units. However, the Robber count can not increase. If you increase the count of Robbers involved in a situation, it will count as an FRP under \"Breaking Robbery Rules\" with a 4 Day Ban",
+              "You cannot take situations only take a single hostage at a given time",
+              "Robbery Situations cannot under any circumstances lead to Civilian/Gang Situations against the Police",
+              "There is no option for demanding items or money if you steal a government vehicle. Good luck escaping with your life"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "SPECIFIC ROBBERY TYPES",
+        "subsections": [
+          {
+            "title": "ATM Robbery",
+            "rules": [
+              "Player Count: 1 Robber, 1 Police Officer",
+              "Vehicles: 1 Vehicle on both sides (Bikes are not allowed)",
+              "In an ATM Robbery you cannot directly initiate a shootout. The Police will give you the opportunity to enter your vehicle to escape",
+              "Code 99 will only be initiated once your Vehicle has been disabled (fully damaged, no fuel, unable to flip over, lost in water)",
+              "The Robbery Situation will end if you have evaded the Police for a minimum of 5 Minutes or if you win or lose the Code 99 Situation",
+              "You are not allowed to switch vehicles during this robbery"
+            ]
+          },
+          {
+            "title": "Car Robbery",
+            "rules": [
+              "Can be triggered when 1 Police is active",
+              "Minimum Player Count: Robber: 1, Maximum Player Count: Robbers: 2, Police: 2",
+              "Even if there is 1 Robber, 2 Officers can attend. The same is allowed in reverse",
+              "A Car Robbery is a Code 99 Situation if the following condition has been met: Code 99 / Shootout will only start if the Robbery Vehicle has been completely disabled or lost",
+              "At no point can either party stop the vehicle to initiate a shootout",
+              "The Car Robbers must be in the same vehicle from the start of the Robbery to till the time of delivering the vehicle. After selling the vehicle the Robbers must evade capture and return the vehicle papers to successfully complete the robbery"
+            ]
+          },
+          {
+            "title": "Shop Robbery",
+            "rules": [
+              "Can be triggered when 2 Police are active",
+              "Minimum Player Count: Robber: 2 + 1 Hostage, Police: 3 + 1 Negotiator",
+              "Maximum Player Count: Robbers: 3 + 1 Hostage, Police: 4 + 1 Negotiator",
+              "Vehicles: Robbers: 1 Vehicle only. Police Officers: For the minimum count and maximum count only 2 Vehicles are allowed",
+              "Weapon: Pistol Only",
+              "A Shop Robbery is a Code 99 Situation if the following condition has been met: Code 99 / Shootout will only start if the Robbery Vehicle has been completely disabled or lost",
+              "At no point can either party stop the vehicle to initiate a shootout",
+              "The negotiator must leave the scene with the hostage after gaining control of the hostage and relaying the demands to the Attending Officers, for this they may bring a vehicle to transport the Hostage to the Station"
+            ]
+          },
+          {
+            "title": "Fleeca Robbery",
+            "rules": [
+              "Can be triggered when 2 Police are active",
+              "Has 2 methods of execution: Hostage Situation and Direct Code 99",
+              "Minimum Player Count: Robber: 3 + 1 Hostage, Police: 4 + 1 Negotiator",
+              "Maximum Player Count: Robbers: 4 + 1 Hostage, Police: 5 + 1 Negotiator",
+              "Vehicles: Robbers: 1 Vehicle only. Police Officers: For the minimum count 2 Vehicles are allowed, for the maximum count only 3 Vehicles are allowed",
+              "Weapon: Pistol Only",
+              "Minimum Player Count: Robber: 3, Police: 4",
+              "Maximum Player Count: Robbers: 4, Police: 5",
+              "In Direct Code 99 Fleeca, the Robbers are under no circumstances allowed to exit the Fleeca to initiate the gun fight. When the shootout is to start, the XPD will announce that they are breaching the location",
+              "If a robber exits the Fleeca during any point before the firing starts they will be captured. The Fleeca interior is your only defensible point",
+              "At the end of the gunfight, the side that is All Down must respond to the All Down question. No further chats will be entertained",
+              "Weapon: Pistol or Rifles"
+            ]
+          },
+          {
+            "title": "Paleto Bank Robbery",
+            "rules": [
+              "Can be triggered when 2 Police is active",
+              "Has 2 methods of execution: Hostage Situation and Direct Code 99",
+              "Minimum Player Count: Robber: 3 + 1 Hostage, Police: 4 + 1 Negotiator",
+              "Maximum Player Count: Robbers: 4 + 1 Hostage, Police: 5 + 1 Negotiator",
+              "Vehicles: Robbers: 1 Vehicle only. Police Officers: For the minimum count only 2 Vehicles are allowed, for the maximum count only 3 Vehicles are allowed",
+              "Weapon: Rifles Only",
+              "Minimum Player Count: Robber: 4, Police: 5",
+              "Maximum Player Count: Robbers: 5, Police: 6",
+              "In Direct Code 99 Paleto, the Robbers are under no circumstances allowed to exit the Paleto to initiate the gun fight. When the shootout is the start the XPD will announce that they are breaching the location",
+              "If a robber exits the Paleto during any point before the firing starts they will be captured. The Paleto interior is your only defensible point",
+              "At the end of the gunfight, the side that is All Down must respond to the All Down question. No further chats will be entertained",
+              "Weapon: Rifles Only"
+            ]
+          },
+          {
+            "title": "Main Bank (Pacific Bank) Heist",
+            "rules": [
+              "Can be triggered when 4 Police is active",
+              "Main Bank Heist is a Code 99 Section 3 Robbery with 2 Modes of execution: Hostage Mode and Direct Code 99 Mode",
+              "Minimum Player Count: Robber: 6 + 1 Hostage, Police: 8 + 1 Negotiator",
+              "Maximum Player Count: Robbers: 8 + 1 Hostage, Police: 10 + 1 Negotiator",
+              "For both the minimum and maximum versions, a maximum of 1 Hostage is allowed. However, the total demands remain the same (3 Demands)",
+              "Vehicles: Robbers: For both Minimum and Maximum cases, only 2 Vehicles are allowed to be used. Police: For both Minimum and Maximum cases, only 5 Vehicles are allowed to be used. Additional to the 5 Vehicles, 1 Helicopter will be included in the situation",
+              "Minimum Player Count: Robber: 6, Police: 8",
+              "Maximum Player Count: Robbers: 8, Police: 10",
+              "In Direct Code 99 Main Bank, the Robbers are under no circumstances allowed to exit the Main Bank to initiate the gun fight. When the shootout is to start the XPD will announce that they are breaching the location",
+              "If a robber exits the Main Bank during any point before the firing starts they will be captured. The Main Bank interior is your only defensible point",
+              "At the end of the gunfight, the side that is \"All Down\" must respond to the \"All Down\" question. No further chats will be entertained",
+              "Weapons: Rifles Only"
+            ]
+          },
+          {
+            "title": "Drug Heist",
+            "rules": [
+              "The Drug Heist is a Code 99 Section 3 Robbery",
+              "Minimum Player Count: Robbers: 7, Police: 8",
+              "Maximum Player Count: Robbers: 8, Police: 10",
+              "The Robbers are under no circumstances allowed to exit the DH Building initiate the gun fight. When the shootout is the start the X-PD will announce that they are breaching the location. If a robber exits the DH during any point before the firing starts they will be captured. The DH interior is your only defensible point",
+              "At the end of the gunfight, the side that is \"All Down\" must respond to the \"All Down\" question. No further chats will be entertained",
+              "There is no \"Escape RP\" for this situation",
+              "The use of bugs and collision zone exploits will result in an FRP being generated and the bug exploitation ban being implemented",
+              "Weapons: Rifles Only"
+            ]
+          },
+          {
+            "title": "Vault Heist",
+            "rules": [
+              "The Vault Heist is a Code 99 Section 3 Robbery",
+              "Minimum Player Count: Robbers: 3, Police: 4",
+              "Maximum Player Count: Robbers: 6, Police: 8",
+              "Maximum Vehicle Count: 4 + 1 Helicopter",
+              "The Police can declare Code 99 once the robbery vehicles are unable to proceed (disabled)",
+              "No additional vehicles apart from the spawned vehicles can be used",
+              "No additional players may join this situation while it is on-going or triggered",
+              "There is no option for \"backup\" in this robbery",
+              "There is no \"Escape RP\" for this situation",
+              "The use of bugs and collision zone exploits will result in an FRP being generated and the bug exploitation ban being implemented",
+              "Weapons: Rifles Only"
+            ]
+          },
+          {
+            "title": "House Robbery",
+            "rules": [
+              "The House Robbery is not a Code 99 Robbery",
+              "Player Count: Robbers: 1, Police: 1",
+              "Weapons: None (Police will use Taser only)",
+              "You are not allowed to fire at the Police after you trigger a House Robbery",
+              "To successfully complete the robbery you must successfully evade Police Capture for 5 Minutes"
+            ]
+          },
+          {
+            "title": "Bob Cat Robbery",
+            "rules": [
+              "The BobCat is a Code 99 Section 3 Robbery",
+              "Minimum Player Count: Robbers: 4, Police: 6",
+              "Maximum Player Count: Robbers: 8, Police: 10",
+              "The Robbers are under no circumstances allowed to exit the Bobcat Building after initiate the gun fight. When the shootout is the start the X-PD will announce that they are breaching the location. If a robber exits the DH during any point before the firing starts they will be captured. The DH interior is your only defensible point",
+              "At the end of the gunfight, the side that is \"All Down\" must respond to the \"All Down\" question. No further chats will be entertained. Using any type of props or vehicle for blocking the entrance to prevent combat with bot will be considered as Bug exploiting",
+              "There is no \"Escape RP\" for this situation",
+              "The use of bugs and collision zone exploits will result in an FRP being generated and the bug exploitation ban being implemented",
+              "Weapons: Rifles Only"
+            ]
+          },
+          {
+            "title": "Bunker and other NPC Robberies",
+            "rules": [
+              "Robbers: 1 to 8 Robbers",
+              "Weapons: Any",
+              "You are required to re-spawn in this situation if you are killed by the NPCs",
+              "Admins will Force Re-spawn you if you do not"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "POST-ROBBERY RULES",
+        "subsections": [
+          {
+            "title": "Robberies and Escape RP",
+            "rules": [
+              "In any robbery, if a gunfight begins and either the robber or an officer is incapacitated, the incident ends for the party that has been downed. There will be no opportunity for a robber to initiate an Escape Roleplay in this context",
+              "If the robber is downed, the police may proceed with the arrest process—but note that officers can only handcuff a robber after they have been revived by the bot or EMS. Handcuffing a deceased character is not permitted",
+              "Additionally, if a robber chooses to cooperate with the police, officers may handcuff without using a taser; however, the action of cuffing must still be clearly communicated",
+              "Robbers must vacate the area once the police are incapacitated instead of attempting to engage with them further after a robbery"
+            ]
+          },
+          {
+            "title": "In-Person Robbery",
+            "rules": [
+              "For in-person robberies, you have two options: either steal five items with a combined value of 50 Lakhs or take 50 Lakhs in cash",
+              "Always keep track of each item's cost—if you exceed the designated amount, you will be held responsible",
+              "This applies for Hostage Situations as well"
+            ]
+          }
+        ]
+      }
+    ],
+    "title": "XLANTIS CITY ROLEPLAY - BASIC ROBBERY RULES"
+  },
+  "basic-roleplay-rules": {
+    "metadata": {
+      "document_type": "Game Rules",
+      "category": "Core Roleplay Guidelines",
+      "last_updated": "2025",
+      "server": "XLANTIS CITY ROLEPLAY",
+      "rules": "",
+      "main_safe_zones": "",
+      "additional_safe_zones": "",
+      "police_safezone": "",
+      "example": "A Proposal RP is on-going between 2 citizens, during which, you go in and start forcing yourself to be involved in the scene, ruining the flow of the existing RP.",
+      "definition": "Interfering in an on-going scenario will be considered as Lore Breaking. Another instance of Lore Breaking is creating scenarios that force a player to break out of the established backstory or Lore that they have created.",
+      "examples": "",
+      "note": "The Police will conduct random checks for licensing and illegal weapon carrying and so on, it is part of their duties and RP. Do not use those as an excuse to trigger vulgar situations with them",
+      "demands_for_hostages": "",
+      "with_the_police": "",
+      "with_all_other_entities": ""
+    },
+    "overview": "",
+    "sections": [
+      {
+        "title": "OVERVIEW",
+        "subsections": [],
+        "description": "The following mentioned rules are guidelines to be followed by the players of XLANTIS CITY. They cover the basic Roleplay Guidelines to keep everyone's roleplay experience smooth and healthy."
+      },
+      {
+        "title": "GENERAL ROLEPLAY GUIDELINES",
+        "subsections": [
+          {
+            "title": "Character and Identity",
+            "rules": [
+              "Character Models with nudity are permitted but please keep in mind that people do stream. In addition, you can be arrested for Indecent Exposure (in real life)-(Server will not be responsible)",
+              "Your Fivem name should be relatable to your discord name or character name",
+              "Be honest and transparent about your identity. Introduce yourself and let others know who you are. Faking a character (wearing a mask and using a voice changer) to create unwanted situations to provoke fellow players will lead to ban",
+              "Getting your Account Banned & Re-Joining the Server with a Different Account will lead to permanent ban"
+            ]
+          },
+          {
+            "title": "Weapons and Safety",
+            "rules": [
+              "Weapons must be holstered at all times. Brandishing any Weapon in City Limits is Illegal",
+              "Avoid any unwanted death scenario friendly kills, death matches",
+              "Intentionally jumping in front of a vehicle to be killed will not be considered a valid gameplay tactic, and players may not call it as a VDM"
+            ]
+          },
+          {
+            "title": "Communication",
+            "rules": [
+              "Voice IDing isn't allowed",
+              "Respect other players' boundaries and privacy. Do not share personal information about others without their consent",
+              "Treat others with kindness and respect. Avoid engaging in behavior that could be seen as harassing, intimidating, or threatening",
+              "Take responsibility for your actions. If you have caused harm or upset to other players, apologize and make amends",
+              "Online interactions can have real-life consequences, so it is important to be mindful of your behavior and how it affects others"
+            ]
+          },
+          {
+            "title": "Asset Management",
+            "rules": [
+              "Transferring assets such as money, weapons or vehicles between your different characters is forbidden. This includes the use of middlemen who may also be punished",
+              "During pursuit you should not use the valet service to get your vehicle"
+            ]
+          },
+          {
+            "title": "Situational Rules",
+            "rules": [
+              "Firing towards a safe zone, or Stealing vehicles from a safe zone will be considered as FRP",
+              "Gangs are not allowed to create an unnecessary situation with civilians and vice versa. Civilians are not allowed to involve any gang or gang members into their situation and vice versa",
+              "Killing a player during their work time or while grinding at illegal areas will not be allowed. This area is considered as a green zone and killing a player or taking hostage at these areas will be considered as FRP",
+              "Player cannot re enter a situation once he is dead",
+              "In the case of a rule break do not break character. Finish roleplaying the situation and then submit a FRP ticket in our discord with as much evidence as you can provide"
+            ]
+          },
+          {
+            "title": "Water and Escape Rules",
+            "rules": [
+              "In a robbery situation, if it ends in water, the police will use announcements to call the robber to shore. The robber should then return and surrender to the police in this scenario",
+              "Robbers can however, use boats and water based vehicles to escape if the escape RP has been pre-planned. You can only swim in the water for 5 Mins"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "CORE ROLEPLAY CONCEPTS",
+        "subsections": [
+          {
+            "title": "1. OOC / Out of Character",
+            "rules": [
+              "Avoid OOC conversation in-game. Any kind of OOC talks in the city towards a player will be considered as an FRP. This can include the mentioning of the Rules or mentioning \"RP\" within the city",
+              "Talking while dead or using /me while knocked or dead is an FRP",
+              "/me usage is only restricted to RP integrations, such as \"taking out wallet\" where an asterisk is used to imitate an action OR when your mic is bugged to communicate with a player in a respectful manner. All other uses will fall under OOC",
+              "However, /me and OOC can be used in some limited situations to make \"FUN RPs\" if both parties are willing to do this. If a Roleplay Violation Ticket has been raised this point will not be applicable"
+            ],
+            "description": "Out Of Character means you are writing as yourself, the player, in the chat, not as your In-game character."
+          },
+          {
+            "title": "2. Meta Gaming",
+            "rules": [
+              "The use of Discord Calls and Chats, External Communication to pass on information of a situation that is on-going and so on will count as Meta Gaming",
+              "This includes the use of in-game playable missions (example Boombox) to stream and snipe someone's livestream"
+            ],
+            "description": "Metagaming is the use of any kind of knowledge not readily available to your character."
+          },
+          {
+            "title": "3. Stream Sniping",
+            "rules": [],
+            "description": "Stream Sniping refers to the use of someone else's stream to gain an advantage in an RP scenario or disrupt an RP scenario or involve yourself in an RP scenario that you are not involved in or in the area to witness and take part in."
+          },
+          {
+            "title": "4. Disconnecting/Crashing or Acting AFK",
+            "rules": [
+              "Intentionally crashing your game or disconnecting from the server via commands or removing or disconnecting your connection is punishable by Ban Periods depending on the situation",
+              "If unintentional, make an attempt to contact a member of the Staff or the players involved in the situation and let them know",
+              "In an active situation, if you disconnect, you cannot re-enter that situation as it significantly impacts the flow of that situation. (Refer Robbery Rules for additional information)",
+              "However, unexpected technical issues are understandable. If you encounter such a case, report to the discord and inform the staff when you can spawn back in the same area. You are required to keep the POV of the disconnect"
+            ]
+          },
+          {
+            "title": "5. Safezone and Safezone Violations",
+            "rules": [
+              "Main Garage",
+              "Ocean Highway Garage",
+              "Business Locations",
+              "The Police Headquarters and Locations",
+              "The Hospital Zones",
+              "Mr.X Headquarters",
+              "The TDM/FFA Arenas and Lobby Area (9006)",
+              "City Hall (and Court)",
+              "Whitelisted Job Locations",
+              "Jail (including Admin Jail)",
+              "Impound",
+              "Special Event Locations",
+              "Gang Houses",
+              "When in a safezone you are not allowed to create or involve yourself in a situation. Similarly, you are not allowed to enter a safe zone during an active situation to avoid the consequences",
+              "If the situation has been triggered from the Green zone then both parties should leave the area in 10 minutes",
+              "Kidnapping or initiating RP with a person who is doing community service or has just been released from jail is also considered a Fail RP",
+              "If a group of players trigger the Police and start firing towards the Police, the Police are allowed to shoot from in to out of the building to defend themselves, they must look to clear the area of the hostile party but cannot remain within the safezone for more than 15Mins",
+              "Additional to this case, only those who were in the area (on the hostile side) may be involved in the firing. No additional players may join the firing (regardless if the entire group was in the Radio or Team)"
+            ],
+            "description": "Safezones are zones of peace and meant for positive interactions and gatherings."
+          },
+          {
+            "title": "6. Fear Roleplay",
+            "rules": [
+              "Nearly every character would find themselves afraid if held at gunpoint or threatened with obvious death. While you might play smart, you must still comply with the enemy's demands & avoid death for as long as possible. If the situation changes, such as if the enemy no longer has Weapons Pointed at you, you can stop being afraid",
+              "Players are required to show Fear RP towards Police Officers whether it is a single Police Officer or multiple. This does not mean that the PD can misuse this power to favor their RP or create vulgar situations"
+            ],
+            "description": "Players must show appropriate care and concern for their character's safety and life. This rule aims for balanced gameplay."
+          },
+          {
+            "title": "7. Random DeathMatch (RDM)",
+            "rules": [
+              "Killing without giving proper time to react is still counted as RDM",
+              "Killing without giving the victim the exact reason as to why he is going to be killed will count as RDM",
+              "No attacking or engaging in combat with another player without verbal RP interaction or being initiated into combat first. You must give sufficient RP and counter play before shooting"
+            ],
+            "description": "RDM stands for Random Death Match. RDM occurs when either you kill someone, or someone else kills you without any valid reason or roleplaying events leading up to it."
+          },
+          {
+            "title": "8. Vehicle DeathMatch (VDM)",
+            "rules": [
+              "If you accidentally kill someone with a vehicle, apologize to them and wait till they're revived before leaving (Basic Decency)",
+              "However, we have an anti-VDM system, if you purposefully commit VDM, you will be auto-kicked"
+            ],
+            "description": "VDM stands for Vehicle Death Match. Attacking another player/group using a Vehicle with the intent to kill/knock them out without valid reasoning or initiation counts as VDM."
+          },
+          {
+            "title": "9. Warning Fire",
+            "rules": [
+              "It should be done in the same direction as the person who is going to be attacked and should not hurt the player. You can fire at the ground or sky. At least a count of 3 bullets must be fired as a warning shot",
+              "You can stop the warning fire and engage the opponent if they have drawn their gun and are ready to fire. The warning fire must be visible from the point of view of the person who is going to be attacked",
+              "If it's an ongoing situation, you can avoid the warning fire (It is only applicable to a situation in a continued timeline, if the timeline breaks, you must re-initiate the warning fire. That is, if the situation starts in the morning and the timeline breaks and all players rejoin the city in the evening, the warning fire must be re-initiated.)"
+            ]
+          },
+          {
+            "title": "10. Power Gaming",
+            "rules": [],
+            "description": "Power gaming is a term that is used to describe the usage of in-game mechanics, external information, or a roleplay concept that gives you an added advantage to your own story or roleplay character."
+          },
+          {
+            "title": "11. Combat Logging",
+            "rules": [
+              "\"Connection Timed Out\" crashes will also count as Combat Logging if you fail to return to the location or inform the Staff with proof"
+            ]
+          },
+          {
+            "title": "12. New Life Rule",
+            "rules": [
+              "If a player dies and respawns in a hospital or is revived by a bot EMS or an Admin, they must follow the New Life Rule",
+              "Bodies burnt by the opposite team during a situation should respawn and NLR will be applicable (If the enemy pours petrol on your body and they set fire to it, you must respawn irrespective of whether you body has been burnt in your POV or not)",
+              "However, in Gang Situations, the Gang can be involved in the situation where their fellow member is killed, if they have received proper information from an eye witness. The proper POV of this communication must be available from the Gang side and the informant side"
+            ],
+            "description": "This means that the player's character forgets knowledge of various information learned before dying, including Names, Characters, unusual locations or information gained from investigations."
+          },
+          {
+            "title": "13. Cop Baiting",
+            "rules": [
+              "Borderline Vulgar talks towards to PD Officer to get them to react in a negative way (Powergaming, Lorebreaking)",
+              "Interfering in an ongoing Robbery (while in chase or not) to trigger your own scenario (Lore Breaking)",
+              "Pitting Police Vehicles without any prior situation"
+            ],
+            "description": "Creating an Unwanted Situation with the Police for the sake of initiating a firing situation/chase will be considered as Cop Baiting."
+          },
+          {
+            "title": "14. Lore Breaking",
+            "rules": []
+          },
+          {
+            "title": "15. Bot Revive Policy",
+            "rules": [
+              "The only way to continue the scenario is if someone who is not at all involved in the scenario but has seen your death, tells you that so and so person has killed you. Teammates cannot tell you of the situation, rejoining the Radio and going back into the situation is not an applicable cause of Bot Revive Policy",
+              "If a person has been killed once by a hostile team, the hostile team cannot target the same player again to kill them. The dead person once revived by the bot or admin must leave the scenario with the hands raised",
+              "Also, Bot Revived players CANNOT be taken hostage under any circumstances"
+            ],
+            "description": "If a player is revived by an Admin or automatically by the bot, the player must not involve themselves in the scenarios and must follow the New Life Rule."
+          },
+          {
+            "title": "16. Bug Exploiting",
+            "rules": [
+              "The use of emotes during firing scenarios will be considered as bug exploiting (exempted are the firing styles given by the server). Bugs that give a unfair advantage will be counted under Bug Exploiting and Non-Realistic Roleplay"
+            ]
+          },
+          {
+            "title": "17. AFK Grinding",
+            "rules": [
+              "If an Admin sees you using exploits and mechanics such as auto-clickers and AFK grinding bots, we will kick you without warning",
+              "If you have a whitelisted job and are AFK to receive the money from the job, you will be terminated from the job and character and assets removed"
+            ],
+            "description": "AFK Grinding is a serious offense and is not limited to just whitelisted jobs, being AFK within the server to complete the minimum time to join a gang will count towards AFK grinding."
+          },
+          {
+            "title": "18. Dead Robbery and In Person Robbery",
+            "rules": [
+              "Dead Robbery is an FRP, you are not allowed to rob dead or knocked players under any circumstances",
+              "You can only rob players if they are alive and you have them at gun-point with their hands raised in surrender",
+              "You can only rob a maximum of 5 items and a maximum of 10 Lakh in either White or Black Money"
+            ]
+          },
+          {
+            "title": "19. Job Locations",
+            "rules": [],
+            "description": "Job Locations are safezones, you cannot trigger situations with players who are in the job locations or doing the job. Similarly you cannot enter a job to escape the situation."
+          },
+          {
+            "title": "20. Guns Over Roleplay",
+            "rules": [],
+            "description": "Using Lethal force in the middle of communication, however, certain RP is known for violence, such as Gang RP, in which warning fire may help you to overcome this rule."
+          },
+          {
+            "title": "21. Hostage Rules",
+            "rules": [
+              "You are not allowed to take players from your own team as hostages, these are referred to as \"fake hostages\". Also, you are not allowed to take more than 1 Hostage in any situation unless specified otherwise",
+              "Hostages are not allowed to be held for more than 30 Mins under any circumstances",
+              "You can only demand up to 30 Lakh in white money as your demand OR you can trade the hostage for a captured teammate",
+              "If the Police is able to safely extract the hostage without overly putting the hostage at risk, they can look into those methods (under the Hostage Negotiation and Rescue SOP)",
+              "You can only demand up to 15 Lakh in white money as your demand. You must value the life of the hostage and meet the demand of the hostage"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "FINAL NOTES",
+        "subsections": [],
+        "description": "The following mentioned rules are guidelines to be followed by the players of XLANTIS CITY. They cover the basic Roleplay Guidelines to keep everyone's roleplay experience smooth and healthy. We cannot list out every rule, but most rules are down to common sense, what you can and cannot do, must come down to your own morality and sense to keep Roleplay fun for all parties."
+      }
+    ],
+    "title": "XLANTIS CITY ROLEPLAY - BASIC ROLEPLAY RULES"
+  },
+  "city-lore": {
+    "metadata": {
+      "document_type": "Game Lore",
+      "category": "World Building",
+      "last_updated": "2025",
+      "server": "XLANTIS CITY ROLEPLAY"
+    },
+    "overview": "",
+    "sections": [
+      {
+        "title": "CITY OVERVIEW",
+        "subsections": [],
+        "description": "XLANTIS City is a cutting-edge, high-tech metropolis that rose from the ruins of an isolated island once owned by the defunct Xantech Industries. What was once a corporate-owned innovation hub has evolved into a vibrant, self-governed city with an economy driven by technology, finance, and trade. With gleaming skyscrapers, futuristic infrastructure, and a bustling port, XLANTIS City offers endless opportunities for both the ambitious and the law-abiding. Beneath the surface, however, a shadowy group known as Mr. X and Associates operates in the grey areas, managing both legitimate and illicit financial flows, walking the fine line between law and crime."
+      },
+      {
+        "title": "GEOGRAPHY",
+        "subsections": [],
+        "description": "The island city of XLANTIS sits off the coast, accessible by advanced sea ports and the state-of-the-art XLANTIS International Airport. Surrounded by ocean and cutting-edge barriers designed to protect against natural disasters, the city is both futuristic and resilient. It features a diverse array of districts, from upscale residential neighborhoods to bustling business hubs and industrial zones. The City Council regulates urban development, ensuring a balance between green spaces, residential areas, and industrial sectors. Strict zoning laws separate business and residential districts, maintaining a sense of order and reducing urban sprawl. However, certain businesses are rumored to have ties to the enigmatic group that pulls strings in the shadows: Mr. X and Associates."
+      },
+      {
+        "title": "GOVERNMENT AND LAW",
+        "subsections": [],
+        "description": "The XLANTIS City Council governs the city through a democratic process, focusing on maintaining order, promoting economic growth, and ensuring social welfare. However, the influence of Mr. X and Associates means that not everything is as transparent as it seems. Through subtle manipulation and political contributions, Mr. X has a hidden hand in city politics. The legal system is built on transparency, and the XLANTIS Justice Department ensures that laws are enforced equitably. However, the shadowy nature of Mr. X and Associates allows them to operate in legal grey areas, skirting the line between legality and crime without leaving evidence behind. Law enforcement is effective at handling smaller crimes, but the big players who are protected by Mr. X remain elusive."
+      },
+      {
+        "title": "ECONOMY",
+        "subsections": [],
+        "description": "XLANTIS thrives as a global hub for technology, finance, and clean energy. The Xantech Technology Park remains a cornerstone of the economy, fostering innovations in software development, cybersecurity, and renewable energy. The city is also known for its robust financial sector, with major banks, investment firms, and multinational corporations calling XLANTIS their home base. However, alongside this legal economy, a darker financial network quietly operates, facilitated by Mr. X and Associates. Dirty money from criminal enterprises flows through the city's legitimate businesses, allowing crime syndicates to thrive under the cover of legality. This keeps the city's economy humming, though at the cost of blurring the lines between legal and illegal financial activities."
+      },
+      {
+        "title": "LEGAL SYSTEM AND LAW ENFORCEMENT",
+        "subsections": [],
+        "description": "XLANTIS has a robust legal framework designed to protect the rights of its citizens while promoting business integrity. However, their ability to touch the operations of Mr. X and Associates remains limited due to a lack of concrete evidence and high-level connections in the government."
+      },
+      {
+        "title": "PRESENT DAY",
+        "subsections": [],
+        "description": "Today, Mr. X and Associates run a significant portion of XLANTIS City's grey economy, operating with both legitimacy and cunning. While they control much of the illicit money flow in the city, they do so without the overt violence or chaos that typically accompanies criminal organizations. Instead, they manage the underworld like a business, ensuring profits for all involved while maintaining a veneer of respectability. Mr. X himself remains an enigma, a phantom who moves in and out of the city's power structures with precision. His influence over businesses, politics, and even elements of law enforcement has made him untouchable, even as the XPD and rival factions attempt to chip away at his empire. Despite ongoing investigations and the suspicion of his involvement in countless illegal activities, Mr. X remains free, operating from the shadows, his empire growing ever stronger."
+      },
+      {
+        "title": "THE ELEMENTALS",
+        "subsections": [
+          {
+            "title": "The Wind Gods",
+            "rules": [],
+            "description": "Wind Gods represent the lightest touch of the X-Elementals. They are primarily observers and low-level enforcers who ensure balance in the city without drastically shifting power dynamics. The Wind Gods focus on maintaining basic order, often intervening in subtle ways to keep chaos from growing out of control."
+          },
+          {
+            "title": "The Fire Gods",
+            "rules": [],
+            "description": "Fire Gods are the next level in power and are more actively involved in shaping conflicts, especially in moments of intense violence or territorial disputes. They represent a destructive yet purifying force, stepping in when conflicts have spiraled out of control."
+          },
+          {
+            "title": "The X-Gods / Aqua Gods",
+            "rules": [],
+            "description": "The X-Gods are mysterious and wield immense, almost limitless power. They are seen as direct enforcers of Xantech Industries' will. When they appear, they completely reshape the city's power structure, usually in response to events that threaten Xantech's interests. The X-Gods can rewrite reality, banish individuals from existence, or even create new laws of physics within XLANTIS City."
+          },
+          {
+            "title": "Black Gods",
+            "rules": [],
+            "description": "The Black Gods are the most feared and revered of all X-Elementals. They represent the final authority and absolute control within XLANTIS City. When the Black God appears, it is a sign that something monumental is about to occur. They hold dominion over the city's fate and have the power to extinguish entire factions, rewrite the narrative, or eliminate those who threaten the balance of power."
+          },
+          {
+            "title": "Black God and the Dark God",
+            "rules": [],
+            "description": "From the Black Gods, a single elemental distinguished himself, wanting to be more Human and interact with the community he wanted to protect and nurture, he in his limitless power fashioned himself a series of Human Shells, bodies, that allowed him to experience life within the city and contain him vast power. The Dark God, normally seems to be calm and somewhat Jolly with those he interacts with, but rises up against those that would seek to challenge and undermine his authority, eliminating those who would stand in his way."
+          }
+        ],
+        "description": "Xantech Industries, a powerful corporate entity in XLANTIS City, secretly created a group of individuals with elemental powers known as the X-Elementals. These figures exist beyond the realm of ordinary humans and are regarded as demigods by some, while others see them as Xantech's method of maintaining absolute control. The X-Elementals operate with specific roles in the city's power structure, and each group is represented by different levels of influence, with the Wind Gods holding the least power and the Black God and X-Gods at the top of the hierarchy. The X-Elementals are portrayed by the Server Admins, influencing both the events within XLANTIS City and the game play environment. Their presence is rare but always game-changing when they intervene."
+      }
+    ],
+    "title": "XLANTIS CITY ROLEPLAY - CITY LORE"
+  },
+  "community-rules": {
+    "metadata": {
+      "document_type": "Community Guidelines",
+      "category": "Server Rules",
+      "last_updated": "2025",
+      "server": "XLANTIS CITY ROLEPLAY"
+    },
+    "overview": "",
+    "sections": [
+      {
+        "title": "OVERVIEW",
+        "subsections": [],
+        "description": "We strive to be inclusive and consider players of all ages, including underage participants. However, it is essential to adhere to the legal age requirement of 18 years old for active participation. Safety and compliance with legal regulations are our top priorities."
+      },
+      {
+        "title": "GENERAL COMMUNITY RULES",
+        "subsections": [
+          {
+            "title": "Personal Information",
+            "rules": [
+              "Never give any kind of personal information to anyone",
+              "Revealing any form of personal information about someone online without their permission (Doxxing) is strictly prohibited and will result in an immediate permanent ban (from all xlantix systems)",
+              "All community members are expected to always respect the privacy of other members",
+              "Any IRL actions or threats towards anyone in the community is not tolerated and will result in an immediate ban and the incident(s) will be reported to the proper authorities"
+            ]
+          },
+          {
+            "title": "Content Policy",
+            "rules": [
+              "This server does not support \"NSFW\", there are no channels here to post NSFW content and NSFW content is strictly prohibited and will result in a non-appealable ban",
+              "This includes using language in RP or out of RP relating to any sexual matter or content. It is not allowed"
+            ]
+          },
+          {
+            "title": "Account Responsibility",
+            "rules": [
+              "If someone else is playing on your account, you are responsible for anything and everything they do",
+              "If they break a rule, you've broken a rule"
+            ]
+          },
+          {
+            "title": "AFK Rule",
+            "rules": [
+              "You should not go AFK for for a long period in game, If you do, you may be kicked",
+              "If you MUST go AFK, try to go somewhere out if sight and away from people",
+              "Even though there is no rule for Robbing someone who is AFK, if you loose your items it is on you, as you need to be responsible to protect your character at all times"
+            ]
+          },
+          {
+            "title": "Exploiting/Cheating",
+            "rules": [
+              "Using mechanics/bugs of the game to help you in character is strictly prohibited and you can be banned permanently for doing so and not reporting the bug and/or utilizing the bug",
+              "When you find a bug, you immediately report it, and do not talk about it with others, friends, etc"
+            ]
+          },
+          {
+            "title": "Trading Premium",
+            "rules": [
+              "You are not allowed to transfer the paid item for money or some other source of money",
+              "If any of them is report you may lead to banned"
+            ]
+          },
+          {
+            "title": "Public Communication",
+            "rules": [
+              "All members are expected to take all disputes to either the ticket system or private messages",
+              "Arguing in Discord voice and text channels, in game or in FRP Voice Channel is not allowed",
+              "Complaining in general, and not following the suggestion system or not contact staff about an issue, is not allowed",
+              "Under this is also complaining about pings. Unless pings are spamming in nature, don't complain about them"
+            ]
+          },
+          {
+            "title": "Staff Interaction",
+            "rules": [
+              "If a Staff Member gives you an instruction or asks you to leave a scene do not argue with Staff",
+              "If you have a problem you can raise the issue through the proper channels such as ticket in Discord",
+              "Arguing in game or in Discord is not going to help anyone"
+            ]
+          },
+          {
+            "title": "Staff Scenes",
+            "rules": [
+              "If there is a staff situation do not interfere",
+              "If you are told by a staff member to leave the scene, you should leave",
+              "If you do not leave you may be warned, kicked, or banned depending on Staff decision"
+            ]
+          },
+          {
+            "title": "Advertising",
+            "rules": [
+              "Links or invites to other servers including links in steam names, discord names, discord status discord avatars or icons with other server names are not allowed",
+              "You will be asked to remove them",
+              "You may place links to our community in your discord status, but not other servers while you are a member of our community",
+              "If you are asked to remove them and do not, you will be banned from the discord community"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "STREAMER RULES",
+        "subsections": [
+          {
+            "title": "Voice Channels and Discord Discussions",
+            "rules": [
+              "When in an XLANTIS Discord Channel or during any discussion apart from Community Meetings, kindly mute the Discord Audio",
+              "If you are roleplaying within the city while simultaneously in any of the Discord Channels, do keep your self Discord Muted and avoid using information gained via Discord in your Roleplay"
+            ]
+          },
+          {
+            "title": "Fail Roleplay Discussions",
+            "rules": [
+              "If an FRP Discussion is going on in the Discord and you are a part of that discussion, ensure that you mute your stream or ensure that you have ended your stream at the time of the Discussion",
+              "You are not allowed to stream any clip that is brought up during the Discussion",
+              "The server has every right to take actions the Management feels appropriate for violation of Stream Rules"
+            ]
+          },
+          {
+            "title": "Server and Player Degradation",
+            "rules": [
+              "While yes streams are your own content, if you have any issues with the Server you can tell it to the Server Management Team directly",
+              "Avoid degradation of the server in your livestreams",
+              "Similarly, to keep the Community as positive as possible, keep the disrespect of players off stream. Or just mute yourself and curse to your heart's content",
+              "Your viewers might as well be the future players of the RP community and your streams set an example for the rest of the community"
+            ]
+          },
+          {
+            "title": "Server Roles and Perks",
+            "rules": [
+              "To get the Streamer Role you will need to have streamed on XLANTIS for 30 Consecutive Days with our server tags (#XLANTISCity #XCRP) while streaming XLANTIS city with a minimum of 2 Hours each day",
+              "As a bonus for this, Streamers gain access to a Streamer Vehicle with a custom number plate"
+            ]
+          }
+        ],
+        "description": "These rules are meant for those who stream in XLANTIS CITY ROLEPLAY."
+      }
+    ],
+    "title": "XLANTIS CITY ROLEPLAY - COMMUNITY RULES"
+  },
+  "ems-rules": {
+    "metadata": {
+      "document_type": "Government Job Rules",
+      "category": "Medical Department Guidelines",
+      "last_updated": "2025",
+      "server": "XLANTIS CITY ROLEPLAY"
+    },
+    "overview": "",
+    "sections": [
+      {
+        "title": "OVERVIEW",
+        "subsections": [],
+        "description": "These guidelines are the basic set of rules to be followed by all parties engaged in the EMS RP and those interacting with the EMS in XLANTIS CITY ROLEPLAY."
+      },
+      {
+        "title": "XMD GENERAL RULES",
+        "subsections": [
+          {
+            "title": "General Rules to be Followed",
+            "rules": [
+              "**Respect:** Treat all players and staff with respect. No harassment, discrimination, or hate speech will be tolerated",
+              "**No Metagaming:** Use only in-game knowledge for in-game actions. Don't use out-of-game information to gain an advantage",
+              "**Character Immersion:** Stay in character as much as possible. Avoid breaking character unless necessary for administrative reasons",
+              "**No Power Gaming:** Role-play situations realistically. Avoid unrealistic actions",
+              "**Consent in RP:** Always get consent from other players before involving them in your role-play scenarios, especially if it involves sensitive topics",
+              "**No God modding:** Don't control other players' characters without their consent. Respect their agency in the role-play",
+              "**OOC (Out of Character) Communication:** Use appropriate channels for out-of-character communication, such as OOC chat or forums",
+              "**No Cheating or Exploiting:** Do not use hacks, cheats, or exploits to gain an unfair advantage. Report any bugs or issues to the staff immediately",
+              "**Follow Staff Instructions:** Listen to and cooperate with staff members. They're here to ensure a positive and fair gaming experience for everyone",
+              "**Role-play Environment:** Keep the role-play environment immersive and engaging. Avoid disrupting others' experiences with disruptive behavior or actions"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "XLANTIS MEDICAL DEPARTMENT (XMD) RULES",
+        "subsections": [
+          {
+            "title": "General EMS Rules",
+            "rules": [
+              "**The EMS will NOT revive dead carried or burnt bodies**",
+              "**Stealing an EMS vehicle will be considered as FRP**",
+              "**Disrespectful Behaviour towards an EMS Officer will be considered as FRP**",
+              "**EMS won't attend illegal area cases**",
+              "**In case of on site killing, the body will be taken to hospital and then revived**",
+              "**If you are playing around and shooting players for fun, the EMS will only revive you once, issuing a warning. If your name comes up again in the MDT, they will not revive you**"
+            ]
+          },
+          {
+            "title": "Situation Rules",
+            "rules": [
+              "**In a situation, if the EMS revives you, you can only continue a situation if the situation is in the a 4 Block Postal area**",
+              "**In case of Police Situations, if you have been revived by an EMS Officer, you may attempt to run away, but you cannot attempt to fight back. The PD will use Non-Lethal force to capture you again**",
+              "**If a Combat Medic (PD Unit) revives you, there is no option for escape. You must surrender immediately**"
+            ]
+          },
+          {
+            "title": "Operational Requirements",
+            "rules": [
+              "**EMS Units must be active within the city with a minimum of 4 Units at a given time**",
+              "**Duty time will be from 7 AM to 12.30 AM**",
+              "**Assets from the EMS are non-transferrable. Transferring assets will be met with strict action**",
+              "**EMS Units are not allowed to engage in any sort of illegal activity while on-duty. If in case they are found engaging in illegal activity while off-duty, they will face a termination from Whitelisted Government Jobs**"
+            ]
+          }
+        ],
+        "description": "These guidelines are the basic set of rules to be followed by all parties engaged in the EMS RP and those interacting with the EMS."
+      }
+    ],
+    "title": "XLANTIS CITY ROLEPLAY - EMS RULES"
+  },
+  "gang-rules": {
+    "metadata": {
+      "document_type": "Game Rules",
+      "category": "Gang Guidelines",
+      "last_updated": "2025",
+      "server": "XLANTIS CITY ROLEPLAY",
+      "examples": "",
+      "rules": "",
+      "gang_members": "",
+      "civilians": "",
+      "war": "",
+      "pre-war": ""
+    },
+    "overview": "",
+    "sections": [
+      {
+        "title": "OVERVIEW",
+        "subsections": [],
+        "description": "The following set of rules describe the guidelines to be followed by the Gangs Registered with XLANTIS and those who wish to be a part of XLANTIS CITY ROLEPLAY's Gang Community. Being a Part of XLANTIS City's X-Gang requires Good Role Play and a Good Understanding of the Criminal Underworld. To become a Gang you must first apply for it, and if accepted, you will be granted access and abilities far more different from those available to a regular criminal. This is to further enhance and improve your Role Play interactions as a Criminal. At XLANTIS CITY, there is no defined Gang Type and so everyone is free is Role Play with their own story, origin and approach, within the scope of what is acceptable in regards to the Rules and Guidelines of the City."
+      },
+      {
+        "title": "GANG FORMATION",
+        "subsections": [
+          {
+            "title": "Requirements",
+            "rules": [
+              "**All members must have a minimum of 12 Hours play time within the server**",
+              "**The Gang during the monitoring phase must be active within the server with a minimum of 7 Members**",
+              "**Players that are to join a Gang must be a minimum of 17 Years old to join a gang. If a player is below the minimum age, that is, 16 years old, the player's parents must give a written consent to allow the player to play with the Gang, however, if any vulgar roleplay scenarios are created by this player, the player will be restricted from involving themselves in Gang RP for a minimum of 1 Year**"
+            ],
+            "description": "To form and maintain your status as a Gang, you must first have a minimum of 15 Members in your Gang List, members must meet the following criteria:"
+          }
+        ]
+      },
+      {
+        "title": "GANGS RECOGNITION",
+        "subsections": []
+      },
+      {
+        "title": "SITUATION TYPES",
+        "subsections": [
+          {
+            "title": "Initial Situations",
+            "rules": [],
+            "description": "An initial situation is a situation that was created by hostile talks to activities. Only members who were in the city at the time of the attack/hostilities would take part in this Initial Situation. Initial Situations lead to Pre-War Situations."
+          }
+        ]
+      },
+      {
+        "title": "CALLING A MEETING",
+        "subsections": []
+      },
+      {
+        "title": "GANG HOUSES",
+        "subsections": []
+      },
+      {
+        "title": "SITUATION RULES (GANG V GANG)",
+        "subsections": [
+          {
+            "title": "General Rules",
+            "rules": [
+              "**In every gang situation, players must wear their gang outfit and use the gang vehicle and have the Gang Tag in their FiveM name. Civilian Vehicles are not allowed to be used in Gang Situations**",
+              "**Gang members cannot initiate or trigger any situations through chats. Creating an unwanted situation through chats will result in 70 violation points, and individual FRP actions will also be taken**",
+              "**Gang members should avoid abusing anyone, there's no such special consideration for female members participating in gangs. Gang RP is inherently toxic, if you wish to play as a Female Character, it is up to your own risk and responsibility. This however, is not an invitation to be toxic against female characters**",
+              "**Gang members are supposed to continue the situation even though there's FRP committed, and you can raise a ticket for the same. You are not allowed to come to the discord and complain about it and spam the Help Chat to complain about it**"
+            ]
+          },
+          {
+            "title": "Position and Building Rules",
+            "rules": [
+              "**Gangs won't be allowed to hold position on a high roof building for more than 5 mins, if they do it will be considered as FRP, if found the situation will be forcefully ended by the Admins**",
+              "**You are not allowed to use one way buildings such as the Drug Heist buildings and you are also not allowed to use any building interiors for your advantage. Additionally you cannot hold any building Rooftop for more than 5 Mins, regardless of the situation. In such cases, the XGOD on duty will put out an announcement as a warning**"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "SITUATIONS (GANG V POLICE)",
+        "subsections": [
+          {
+            "title": "Hierarchy Rules",
+            "rules": [
+              "**The hierarchy of PD shouldn't be based on the number of PD players or gun power. Even if it's a single PD officer, citizens should follow the hierarchy and act accordingly towards the police. PD is not a group of players like a gang where players can go and create a firing situation as they please**",
+              "**Gangs will always be considered Civilians by the Police. Illegal activities that occur within the city limits (Limits are defined by the Borders)**",
+              "**Gangs cannot convert Robbery Scenarios into Gang vs Police situations**",
+              "**There are Roleplay scenarios conducted by the Police such as Traffic Stops and Random Checks, these scenarios cannot be converted into Gang v Police Situations**",
+              "**The only cases that can be converted into Gang v Police Scenarios are when there is a Firing Situation within limits of the city that the Police Interfere in (144 Situations)**"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "SITUATION (GANG V CITIZENS)",
+        "subsections": [
+          {
+            "title": "Trigger Conditions",
+            "rules": [],
+            "description": "A Gang v Citizen situation will only occur if a citizen fails to show Fear RP towards a Gang member and starts behaving against the hierarchy."
+          }
+        ]
+      },
+      {
+        "title": "GANG ALLIANCES",
+        "subsections": []
+      },
+      {
+        "title": "WAR RULES",
+        "subsections": [
+          {
+            "title": "Vehicle and Player Limits",
+            "rules": [
+              "**Maximum Vehicles Allowed: 6 Gang Vehicles + 1 Gang Heli**",
+              "**Player Count: 15 Members**",
+              "**Maximum Vehicles Allowed: 8 Gang Vehicles + 1 Gang Heli**",
+              "**Player Count: All members in the city at the time of firing initiation**"
+            ]
+          },
+          {
+            "title": "War Declaration Rules",
+            "rules": [
+              "**Gang war must be declared in the Face-to-Face meeting between the Leaders/Co-Leaders. Only 4 Members from each team is allowed to be present at the location of the meeting (XLANTIS (Vinewood) Sign)**",
+              "**If one party has requested a meeting, the meeting must be accepted by the other party. Failure to accept and attend the meeting will result in the situation being ended forcefully by the server and the gang that rejects the meeting will face the Actions appropriate to the case**",
+              "**The war request must be accepted within 15 minutes of the War Declaration being sent**",
+              "**If during a meeting firing starts from any side, the situation will forcibly be ended by the Server and both sides will be War Revived (inventory cleared)**",
+              "**If Gang A has declared a war against Gang B, and in 15 Mins Gang B doesn't accept the war, then Gang B will be open to be attacked by Gang A in any location except the Gang House. Gang B will not be allowed to remain within the Gang House**",
+              "**If Gang B is still within the Gang House when the location restriction has been lifted, then Gang B will be forcefully ejected from their Gang House**"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "VEHICLE DEATH MATCH",
+        "subsections": [
+          {
+            "title": "VDM Rules in War Situations",
+            "rules": [
+              "**Vehicle Death Match will be paused during War Situations / Consignments / Official War Type scenarios and the decision rests with the Admin to decide if it was a VDM or not based on the POVs available**",
+              "**If you commit Vehicle Death Match intentionally, you will be directly removed from the War Situation. The player will also be barred from playing in the next 5 Wars**",
+              "**Those who were downed in the war situation will be put back into the War Situation in the location that they were downed at**"
+            ]
+          },
+          {
+            "title": "Official War Scenarios",
+            "rules": [
+              "**In Official War Situations / Consignments / Official War Type scenarios, the 2 Teams will be moved to 2 different locations and when both are ready the Situation will be resumed by an Admin**",
+              "**A Lack of POV will result in your immediate removal from the situation and a direct 30-Day PVP Ban**",
+              "**Pre-Wars and Official Wars must be played out with Rifles only**"
+            ]
+          }
+        ]
+      }
+    ],
+    "title": "XLANTIS CITY ROLEPLAY - GANG RULES"
+  },
+  "pd-rules": {
+    "metadata": {
+      "document_type": "Government Job Rules",
+      "category": "Police Department Guidelines",
+      "last_updated": "2025",
+      "server": "XLANTIS CITY ROLEPLAY"
+    },
+    "overview": "",
+    "sections": [
+      {
+        "title": "OVERVIEW",
+        "subsections": [],
+        "description": "The following rules describe the basic set of rules to be followed by all parties including the police when interacting with each other in XLANTIS CITY ROLEPLAY."
+      },
+      {
+        "title": "CITIZEN TOWARDS X-PD",
+        "subsections": [
+          {
+            "title": "Communication and Behavior",
+            "rules": [
+              "**Respectful Communication:** Citizens must communicate with PD officers in a respectful manner, refraining from using abusive language or insults",
+              "**Compliance:** Citizens are expected to comply with lawful orders given by PD officers during interactions, including requests for identification or questioning",
+              "**Role-play Realism:** Maintain realistic role-play interactions with PD officers, avoiding unrealistic actions or behaviors that may disrupt immersion",
+              "**No Harassment:** Citizens must not harass or intentionally provoke PD officers, as this can lead to disruptions in role-play and create a negative experience for everyone involved",
+              "**Respect Personal Space:** Respect the personal space of PD officers during interactions, avoiding unnecessary physical contact or invasive behavior"
+            ]
+          },
+          {
+            "title": "Reporting and Cooperation",
+            "rules": [
+              "**Reporting Issues:** If a citizen believes they have been treated unfairly or witnessed misconduct by a PD officer, they should report the incident to server staff using the appropriate channels",
+              "**Obedience to Laws:** Citizens should follow server rules and in-game laws when interacting with PD officers, avoiding actions that may lead to criminal charges or in-game penalties",
+              "**No Metagaming:** Avoid using out-of-character knowledge to influence interactions with PD officers. Role-play situations realistically and authentically",
+              "**Role-play Consent:** Obtain consent from PD officers before involving them in role-play scenarios, especially if it involves sensitive topics or actions that may affect their character's development",
+              "**Cooperation:** Cooperate with PD officers during interactions, providing necessary information and assistance within the bounds of the role-play scenario"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "X-PD TOWARDS CITIZENS",
+        "subsections": [
+          {
+            "title": "Professional Conduct",
+            "rules": [
+              "**Professional Conduct:** PD officers must maintain a professional demeanor when interacting with citizens, ensuring that all interactions are conducted respectfully and without unnecessary aggression",
+              "**Lawful Behavior:** PD officers must uphold server rules and in-game laws at all times during interactions with citizens, avoiding actions that may lead to abuse of power or misconduct",
+              "**Role-play Realism:** PD officers should engage in realistic role-play interactions with citizens, considering potential outcomes based on the situation and context of the interaction"
+            ]
+          },
+          {
+            "title": "Use of Force and De-escalation",
+            "rules": [
+              "**Use of Force:** PD officers may use force when necessary to enforce the law and protect themselves or others from harm. However, the use of force must be proportional to the threat faced and should be employed only as a last resort",
+              "**De-escalation:** PD officers are encouraged to use de-escalation techniques to resolve conflicts peacefully and minimize the need for forceful intervention whenever possible",
+              "**PD officers may use only firearms to counter threats posed by robbers with firearms. Tasers are not authorized in this situation**"
+            ]
+          },
+          {
+            "title": "Rights and Accountability",
+            "rules": [
+              "**Respect for Rights:** PD officers must respect the rights of citizens, including the right to due process, freedom from unlawful search and seizure, and protection against discrimination",
+              "**Documentation:** PD officers should document all interactions with citizens, including the reason for the interaction, actions taken, and any outcomes, to ensure accountability and transparency",
+              "**Accountability:** PD officers are accountable for their actions and decisions during interactions with citizens. Any misconduct or abuse of power will be investigated and addressed by server staff accordingly"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "BASIC POLICE RULES AND INTERACTION RULES",
+        "subsections": [
+          {
+            "title": "Safezone and Arrest Rules",
+            "rules": [
+              "**Firing towards PD (Safe Zone) is considered as FRP (Fail Roleplay). If the PD is unable to leave the PD Safezone they are allowed to fire out of the Safezone. However, they are only allowed to hold the area for a maximum of 20 minutes**",
+              "**PD has the right to arrest a player once a government-issued arrest warrant is in place, regardless of the location (Safe Zone, Gang House, City Limits)**"
+            ]
+          },
+          {
+            "title": "Situation Participation",
+            "rules": [
+              "**If a player isn't part of an ongoing robbery or shooting situation, then they're not supposed to get involved. Getting involved will be considered as FRP**",
+              "**If you are caught with an illegal weapon in public, the PD has the power to handcuff you and confiscate the weapon**",
+              "**All on-duty officers (officers who are available during the situation) can be involved in an unexpected or 144 situation**",
+              "**An on-duty officer cannot be taken hostage or kidnapped**"
+            ]
+          },
+          {
+            "title": "Hostage and Demand Rules",
+            "rules": [
+              "**Taking a hostage for any kind of resource exchange, such as cash or other valuable items, against PD will be considered as FRP**"
+            ]
+          },
+          {
+            "title": "Revival and Re-entry Rules",
+            "rules": [
+              "**Dead players from both sides cannot re-enter a situation with PD unless the XMD has revived them. In this case, if the XMD has revived a suspect, the suspect can attempt to flee but cannot attack the PD**",
+              "**If a Combat Medic has revived you, you cannot attempt to flee and must surrender immediately**"
+            ]
+          },
+          {
+            "title": "Combat and War Rules",
+            "rules": [
+              "**Players are not permitted to re-initiate or take part in a scenario in which a 144 has been issued. Open war cannot be declared against PD**"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "HIERARCHY",
+        "subsections": [
+          {
+            "title": "Authority Structure",
+            "rules": [
+              "**The hierarchy of PD shouldn't be based on the number of PD players or gun power. Even if it's a single PD officer, citizens (including gangs) should follow the hierarchy and act accordingly towards the police**"
+            ]
+          },
+          {
+            "title": "Firing Situations",
+            "rules": [],
+            "description": "Players cannot create an unwanted firing situation with the police. Players are allowed to fire at the PD only in the below scenarios:"
+          },
+          {
+            "title": "Arrest and Compliance",
+            "rules": [
+              "**If PD tries to take you into custody when you commit a crime, then you can try to escape by running away, not by firing them. If PD cuffs you for the wrong reason, you can call an advocate or talk by yourself with a valid reason and proof. In any case, if the police arrest you without any reason, then players can raise a complaint in the complaint box (discord) against PD with proof or POV**",
+              "**It's mandatory that you need to follow PD commands; such as, if an on-duty officer finds you carrying a gun, they will ask you to keep it inside and it's mandatory that you follow their command rather than denying and doing the exact opposite. PD can take you into custody if anything such happens**"
+            ]
+          },
+          {
+            "title": "Behavior and Cooperation",
+            "rules": [
+              "**Inappropriate behavior against PD won't be promoted. PD will only be talking to you with respect and they expect the same in return, you're only allowed to tease or criticize the PD if they start to do the same against you**",
+              "**PD cannot jail or fine citizens without a solid reason**",
+              "**If the suspect gives a good, valid reason that he or she didn't commit any crime, then the police have to cooperate with them. If a PD officer misuses their power, strict action will be taken**"
+            ]
+          },
+          {
+            "title": "Jurisdiction and Response",
+            "rules": [
+              "**PD won't attend or respond to any situations that occur outside the city limits unless they witness the situation firsthand or receive information about it**",
+              "**Trespassing in any official government area is strictly prohibited, and the PD has the right to take action**"
+            ]
+          },
+          {
+            "title": "Water and Pursuit Rules",
+            "rules": [
+              "**In a robbery situation, if it ends in water, the police will use announcements to call the robber to shore. The robber should then return and surrender to the police in this scenario. Robbers can however, use boats and water based vehicles to escape if the escape RP has been pre-planned. You can only swim in the water for 5 Mins**"
+            ]
+          },
+          {
+            "title": "Traffic Stop Rules",
+            "rules": [
+              "**For Traffic Stop RPs, only the people inside the vehicle getting pulled over for the Traffic Stop are allowed to involve themselves with the stop. No other persons can involve themselves with that scenario**"
+            ]
+          }
+        ]
+      }
+    ],
+    "title": "XLANTIS CITY ROLEPLAY - POLICE DEPARTMENT RULES"
+  },
+  "special-ped-rules": {
+    "metadata": {
+      "document_type": "Game Rules",
+      "category": "Special Character Guidelines",
+      "last_updated": "2025",
+      "server": "XLANTIS CITY ROLEPLAY"
+    },
+    "overview": "",
+    "sections": [
+      {
+        "title": "OVERVIEW",
+        "subsections": [],
+        "description": "These rules serve as a guideline for those players who are playing or wish to play using special PEDs such as Animal PEDs, Non-Standard PEDs, Kid PEDs and so on. Failure to comply with these guidelines will result in the revocation of the permissions given to you as well as the access to the PED."
+      },
+      {
+        "title": "REQUESTING AND GAINING ACCESS TO YOUR PED",
+        "subsections": []
+      },
+      {
+        "title": "PED LAWS: KID PEDS",
+        "subsections": [
+          {
+            "title": "Age Rating Compliance",
+            "rules": [
+              "**While Kid PEDs are strictly not allowed by Rockstar's and thereby FiveM's PLAs. It allows you to use the PEDs for engaging roleplays within the boundary of the Age Rating. What this means is that players using such PEDs may not engage in any activity that constitutes as an illegal activity. These activities can range from driving a full sized vehicle to doing drugs, engaging in criminal Roleplay, engaging in Gambling and so on**",
+              "**Players that have found to be engaging in such activities will only receive a single warning or receive a hefty ban or other actions befitting the gravity of the situation**"
+            ]
+          },
+          {
+            "title": "Interaction Restrictions",
+            "rules": [
+              "**Players interacting with Kid PED players are strictly restricted from involving them in similar activities. Violence and such activities are NOT under any circumstances allowed near or within vicinity of these Kid PED players. Voluntary Failure to comply will result in hefty actions determined by the Server Management**"
+            ]
+          },
+          {
+            "title": "Power Gaming and Abuse",
+            "rules": [
+              "**A Kid PED player cannot under any circumstances abuse the powers granted to them to favor their own roleplay or the roleplay of those involved with them. Such actions constitute as Power Gaming and will result in double to regular action for all involved**"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "PED LAWS: ANIMAL PEDS",
+        "subsections": [
+          {
+            "title": "Approval and Uniqueness",
+            "rules": [
+              "**Animal PEDs are complicated cases within the Roleplay community and require the player to have met the Management and confirmed the details of their PED**",
+              "**PEDs must be unique and not in use by other Changelings**"
+            ]
+          },
+          {
+            "title": "Physical Limitations",
+            "rules": [
+              "**Animal PED characters cannot be carried as such actions cause bugs with the model and the interactee and environment removing the immersion in the Roleplay**",
+              "**Certain Animal PEDs are restricted from using Vehicles and items that a Human Character would normally use. This includes, Phones, Weapons, Equipment and so on. The cases shift from PED to PED**"
+            ]
+          }
+        ]
+      }
+    ],
+    "title": "XLANTIS CITY ROLEPLAY - SPECIAL PED RULES"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "document_type": "Game Rules",
+    "category": "Gang Guidelines",
+    "last_updated": "2025",
+    "server": "XLANTIS CITY ROLEPLAY",
+    "examples": "",
+    "rules": "",
+    "gang_members": "",
+    "civilians": "",
+    "war": "",
+    "pre-war": ""
+  },
+  "overview": "",
+  "sections": [
+    {
+      "title": "OVERVIEW",
+      "subsections": [],
+      "description": "The following set of rules describe the guidelines to be followed by the Gangs Registered with XLANTIS and those who wish to be a part of XLANTIS CITY ROLEPLAY's Gang Community. Being a Part of XLANTIS City's X-Gang requires Good Role Play and a Good Understanding of the Criminal Underworld. To become a Gang you must first apply for it, and if accepted, you will be granted access and abilities far more different from those available to a regular criminal. This is to further enhance and improve your Role Play interactions as a Criminal. At XLANTIS CITY, there is no defined Gang Type and so everyone is free is Role Play with their own story, origin and approach, within the scope of what is acceptable in regards to the Rules and Guidelines of the City."
+    },
+    {
+      "title": "GANG FORMATION",
+      "subsections": [
+        {
+          "title": "Requirements",
+          "rules": [
+            "**All members must have a minimum of 12 Hours play time within the server**",
+            "**The Gang during the monitoring phase must be active within the server with a minimum of 7 Members**",
+            "**Players that are to join a Gang must be a minimum of 17 Years old to join a gang. If a player is below the minimum age, that is, 16 years old, the player's parents must give a written consent to allow the player to play with the Gang, however, if any vulgar roleplay scenarios are created by this player, the player will be restricted from involving themselves in Gang RP for a minimum of 1 Year**"
+          ],
+          "description": "To form and maintain your status as a Gang, you must first have a minimum of 15 Members in your Gang List, members must meet the following criteria:"
+        }
+      ]
+    },
+    {
+      "title": "GANGS RECOGNITION",
+      "subsections": []
+    },
+    {
+      "title": "SITUATION TYPES",
+      "subsections": [
+        {
+          "title": "Initial Situations",
+          "rules": [],
+          "description": "An initial situation is a situation that was created by hostile talks to activities. Only members who were in the city at the time of the attack/hostilities would take part in this Initial Situation. Initial Situations lead to Pre-War Situations."
+        }
+      ]
+    },
+    {
+      "title": "CALLING A MEETING",
+      "subsections": []
+    },
+    {
+      "title": "GANG HOUSES",
+      "subsections": []
+    },
+    {
+      "title": "SITUATION RULES (GANG V GANG)",
+      "subsections": [
+        {
+          "title": "General Rules",
+          "rules": [
+            "**In every gang situation, players must wear their gang outfit and use the gang vehicle and have the Gang Tag in their FiveM name. Civilian Vehicles are not allowed to be used in Gang Situations**",
+            "**Gang members cannot initiate or trigger any situations through chats. Creating an unwanted situation through chats will result in 70 violation points, and individual FRP actions will also be taken**",
+            "**Gang members should avoid abusing anyone, there's no such special consideration for female members participating in gangs. Gang RP is inherently toxic, if you wish to play as a Female Character, it is up to your own risk and responsibility. This however, is not an invitation to be toxic against female characters**",
+            "**Gang members are supposed to continue the situation even though there's FRP committed, and you can raise a ticket for the same. You are not allowed to come to the discord and complain about it and spam the Help Chat to complain about it**"
+          ]
+        },
+        {
+          "title": "Position and Building Rules",
+          "rules": [
+            "**Gangs won't be allowed to hold position on a high roof building for more than 5 mins, if they do it will be considered as FRP, if found the situation will be forcefully ended by the Admins**",
+            "**You are not allowed to use one way buildings such as the Drug Heist buildings and you are also not allowed to use any building interiors for your advantage. Additionally you cannot hold any building Rooftop for more than 5 Mins, regardless of the situation. In such cases, the XGOD on duty will put out an announcement as a warning**"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SITUATIONS (GANG V POLICE)",
+      "subsections": [
+        {
+          "title": "Hierarchy Rules",
+          "rules": [
+            "**The hierarchy of PD shouldn't be based on the number of PD players or gun power. Even if it's a single PD officer, citizens should follow the hierarchy and act accordingly towards the police. PD is not a group of players like a gang where players can go and create a firing situation as they please**",
+            "**Gangs will always be considered Civilians by the Police. Illegal activities that occur within the city limits (Limits are defined by the Borders)**",
+            "**Gangs cannot convert Robbery Scenarios into Gang vs Police situations**",
+            "**There are Roleplay scenarios conducted by the Police such as Traffic Stops and Random Checks, these scenarios cannot be converted into Gang v Police Situations**",
+            "**The only cases that can be converted into Gang v Police Scenarios are when there is a Firing Situation within limits of the city that the Police Interfere in (144 Situations)**"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SITUATION (GANG V CITIZENS)",
+      "subsections": [
+        {
+          "title": "Trigger Conditions",
+          "rules": [],
+          "description": "A Gang v Citizen situation will only occur if a citizen fails to show Fear RP towards a Gang member and starts behaving against the hierarchy."
+        }
+      ]
+    },
+    {
+      "title": "GANG ALLIANCES",
+      "subsections": []
+    },
+    {
+      "title": "WAR RULES",
+      "subsections": [
+        {
+          "title": "Vehicle and Player Limits",
+          "rules": [
+            "**Maximum Vehicles Allowed: 6 Gang Vehicles + 1 Gang Heli**",
+            "**Player Count: 15 Members**",
+            "**Maximum Vehicles Allowed: 8 Gang Vehicles + 1 Gang Heli**",
+            "**Player Count: All members in the city at the time of firing initiation**"
+          ]
+        },
+        {
+          "title": "War Declaration Rules",
+          "rules": [
+            "**Gang war must be declared in the Face-to-Face meeting between the Leaders/Co-Leaders. Only 4 Members from each team is allowed to be present at the location of the meeting (XLANTIS (Vinewood) Sign)**",
+            "**If one party has requested a meeting, the meeting must be accepted by the other party. Failure to accept and attend the meeting will result in the situation being ended forcefully by the server and the gang that rejects the meeting will face the Actions appropriate to the case**",
+            "**The war request must be accepted within 15 minutes of the War Declaration being sent**",
+            "**If during a meeting firing starts from any side, the situation will forcibly be ended by the Server and both sides will be War Revived (inventory cleared)**",
+            "**If Gang A has declared a war against Gang B, and in 15 Mins Gang B doesn't accept the war, then Gang B will be open to be attacked by Gang A in any location except the Gang House. Gang B will not be allowed to remain within the Gang House**",
+            "**If Gang B is still within the Gang House when the location restriction has been lifted, then Gang B will be forcefully ejected from their Gang House**"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VEHICLE DEATH MATCH",
+      "subsections": [
+        {
+          "title": "VDM Rules in War Situations",
+          "rules": [
+            "**Vehicle Death Match will be paused during War Situations / Consignments / Official War Type scenarios and the decision rests with the Admin to decide if it was a VDM or not based on the POVs available**",
+            "**If you commit Vehicle Death Match intentionally, you will be directly removed from the War Situation. The player will also be barred from playing in the next 5 Wars**",
+            "**Those who were downed in the war situation will be put back into the War Situation in the location that they were downed at**"
+          ]
+        },
+        {
+          "title": "Official War Scenarios",
+          "rules": [
+            "**In Official War Situations / Consignments / Official War Type scenarios, the 2 Teams will be moved to 2 different locations and when both are ready the Situation will be resumed by an Admin**",
+            "**A Lack of POV will result in your immediate removal from the situation and a direct 30-Day PVP Ban**",
+            "**Pre-Wars and Official Wars must be played out with Rifles only**"
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "XLANTIS CITY ROLEPLAY - GANG RULES"
+}
